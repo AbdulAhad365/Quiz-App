@@ -1,4 +1,5 @@
 # Flutter Application 1
+## Quiz App
 
 A new Flutter project showcasing the power and flexibility of Flutter to build modern, cross-platform mobile applications.
 
@@ -44,4 +45,4 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AbdulAhad365/Quiz-App.git
